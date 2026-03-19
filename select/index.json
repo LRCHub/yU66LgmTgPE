@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "真夜中は純潔",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-03-19T08:48:28.194261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真夜中は純潔",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/01_真夜中は純潔_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真夜中は純潔",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/02_真夜中は純潔_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "真夜中は純潔",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_真夜中は純潔_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "真夜中は純潔",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/04_真夜中は純潔_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "真夜中は純潔",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/05_真夜中は純潔_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "真夜中は純潔",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/06_真夜中は純潔_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mayonaka wa Junketsu (真夜中は純潔)",
+      "artist": "Shiina Ringo (椎名 林檎)",
+      "has_synced": true,
+      "path": "select/07_Mayonaka_wa_Junketsu_(真夜中は純潔)_Shiina_Ringo_(椎名_林檎).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "真夜中は純潔 (2019 Mix)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/08_真夜中は純潔_(2019_Mix)_椎名林檎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真夜中は純潔",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_真夜中は純潔_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "真夜中は純潔",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_真夜中は純潔_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "真夜中は純潔",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_真夜中は純潔_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "真夜中は純潔",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_04_真夜中は純潔_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "真夜中は純潔",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_05_真夜中は純潔_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "真夜中は純潔",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_06_真夜中は純潔_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "真夜中は純潔(BONUS TRACK)",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_07_真夜中は純潔(BONUS_TRACK)_椎名_林檎.txt"
+    }
+  ]
+}
